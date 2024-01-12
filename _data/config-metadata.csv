@@ -11,7 +11,7 @@ latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
 archival_call_number,Archival Call Number
-archival_collection,Archival Collection
+archival_collection,Archival Collection,,true
 finding_aid_ark,Finding Aid,,true
 identifier,Source Identifier,,,,
 extent,Extent
