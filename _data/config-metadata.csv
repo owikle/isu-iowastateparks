@@ -4,11 +4,17 @@ creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+personal_name_subject,Personal Names,true
+corporate_name_subject,Corporate Names,true
+location,Location,,true,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
+archival_call_number,Archival Call Number
+archival_collection,Archival Collection
+finding_aid_ark,Finding Aid,,true
 identifier,Source Identifier,,,,
+extent,Extent
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
