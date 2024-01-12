@@ -20,12 +20,12 @@ source-code: https://github.com/owikle/isu-iowastateparks
 # title of site appears in banner
 title: Iowa State Parks
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Correspondence, photographs, maps, and other materials related to the creation of Iowa's state parks
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "In the early 20th century, Iowa State University botanist Louis Hermann Pammel (1862-1931), ISU botanist Ada Hayden (1884-1950), and the university's Landscape Architecture Extension Program played key roles in advocating for and developing Iowa's state parks. This collection includes correspondence, photographs, maps, and other materials pertaining to the people and programs active in the state park movement."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: iowa;history;botany;iowa state university
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: owikle
 
