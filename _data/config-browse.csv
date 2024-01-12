@@ -4,3 +4,6 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+personal_name_subject,,true
+corporate_name_subject,,true
+archival_collection,,,true
